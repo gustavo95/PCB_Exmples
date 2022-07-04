@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "A20-OLinuXino-Lime_Rev_I1")(type "KiCad")(uri "$(KIPRJMOD)/A20-OLinuXino-Lime_Rev_I1.pretty")(options "")(descr ""))
+)
